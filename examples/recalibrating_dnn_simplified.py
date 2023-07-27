@@ -41,8 +41,8 @@ experiment_id = 1
 # the test dataset is built using the years_test parameter. They should either be one of
 # the date formats existing in python or a string with the following format
 # "%d/%m/%Y %H:%M"
-begin_test_date = '27/12/2016'
-end_test_date = '01/03/2017'
+begin_test_date = '01/07/2023'
+end_test_date = '07/07/2023'
 
 # Set up the paths for saving data (this are the defaults for the library)
 path_datasets_folder = os.path.join('.', 'datasets')
